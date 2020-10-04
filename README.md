@@ -1,7 +1,7 @@
 # Human Readable Number
 
 ## Task
-Your task is to implement function `toReadable` that converts given number, to readable string.
+Your task is to implement function `toReadable` that converts given integer between 1 and 999, to readable string.
 
 For example:
 ```js
